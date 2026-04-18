@@ -22,7 +22,7 @@
 - designed a clean dashboard with rounded borders and custom kpis.
 - optimized data models for faster reporting.
 
-## [movies data analysis with Python](https://github.com/mohamedshabaanaa342-bot/Movies-Data-Analysis)
+## [movies analysis data with python](https://github.com/mohamedshabaanaa342-bot/Movies-Data-Analysis)
 - performed comprehensive analysis on cinema datasets to identify box office trends and audience preferences.
 - cleaned and transformed messy data using sql to prepare for visualization.
 - visualized ratings, genres, and revenue distributions to find the most profitable movie categories.
