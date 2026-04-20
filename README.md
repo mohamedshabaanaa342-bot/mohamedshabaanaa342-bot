@@ -18,12 +18,12 @@
 ---
 
 ## 📈 featured projects
-### [sales & revenue dashboard](https://github.com/mohamedshabaanaa342-bot/sales-revenue-insights-dashboard)
+### [Sales & Revenue Dashboard](https://github.com/mohamedshabaanaa342-bot/sales-revenue-insights-dashboard)
 - Created a modern Sales Insights Dashboard in Power BI with custom KPIs and clean UI design. Improved performance by optimizing the data model, enabling faster data refresh and better user experience.
 
 ### [Excel Sales Revenue Insights and Dashboard]()
--Developed an end-to-end sales analysis solution using Power Query for data transformation and Pivot Tables for dynamic reporting.
--Created an interactive dashboard with slicers and conditional formatting to highlight revenue trends and regional performance.
+- Developed an end-to-end sales analysis solution using Power Query for data transformation and Pivot Tables for dynamic reporting.
+- Created an interactive dashboard with slicers and conditional formatting to highlight revenue trends and regional performance.
 
 ## [movies analysis data with python](https://github.com/mohamedshabaanaa342-bot/Movies-Data-Analysis)
 - performed comprehensive analysis on cinema datasets to identify box office trends and audience preferences.
