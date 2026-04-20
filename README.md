@@ -19,8 +19,7 @@
 
 ## 📈 featured projects
 ### [sales & revenue dashboard](https://github.com/mohamedshabaanaa342-bot/sales-revenue-insights-dashboard)
-- designed a clean dashboard with rounded borders and custom kpis.
-- optimized data models for faster reporting.
+- Created a modern Sales Insights Dashboard in Power BI with custom KPIs and clean UI design. Improved performance by optimizing the data model, enabling faster data refresh and better user experience.
 
 ## [movies analysis data with python](https://github.com/mohamedshabaanaa342-bot/Movies-Data-Analysis)
 - performed comprehensive analysis on cinema datasets to identify box office trends and audience preferences.
