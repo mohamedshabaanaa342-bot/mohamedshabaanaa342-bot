@@ -30,7 +30,7 @@
 - cleaned and transformed messy data using sql to prepare for visualization.
 - visualized ratings, genres, and revenue distributions to find the most profitable movie categories.
   
-### [train management system](https://github.com/mohamedshabaanaa342-bot/Trains_DB)
+### [Train Managment System](https://github.com/mohamedshabaanaa342-bot/Trains_DB)
 - designed a full relational database schema to track routes, tickets, and personnel.
 - wrote optimized stored procedures and triggers.
 
