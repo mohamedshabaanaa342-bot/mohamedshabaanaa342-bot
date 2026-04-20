@@ -18,7 +18,7 @@
 ---
 
 ## 📈 featured projects
-### [Sales & Revenue Dashboard](https://github.com/mohamedshabaanaa342-bot/sales-revenue-insights-dashboard)
+### [Power BI Sales & Revenue Dashboard](https://github.com/mohamedshabaanaa342-bot/sales-revenue-insights-dashboard)
 - Created a modern Sales Insights Dashboard in Power BI with custom KPIs and clean UI design. Improved performance by optimizing the data model, enabling faster data refresh and better user experience.
 
 ### [Excel Sales Revenue Insights and Dashboard](https://github.com/mohamedshabaanaa342-bot/httsales-revenue-insights-dashboard-excel.git)
